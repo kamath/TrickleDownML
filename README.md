@@ -23,3 +23,5 @@ I made a chatbot that mimics Ronald Reagan since the current GOP nominee is tras
 ##Results:
 ![Alt text](/test1.png "")
 ![Alt text](/test2.png "")
+
+###A lot of the ML code came from [hunkim's word-rnn-tensorflow repo](https://github.com/hunkim/word-rnn-tensorflow)
