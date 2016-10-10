@@ -1,0 +1,4 @@
+*.pyc
+node_modules
+save
+__pycache__
