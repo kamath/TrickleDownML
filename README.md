@@ -12,10 +12,10 @@ I made a chatbot that mimics Ronald Reagan since the current GOP nominee is tras
 
 ##To Run:
 ###Run the following on your command line:
-<code>git clone http://github.com/andykamath/TrickleDownML</code>
-<code>cd TrickleDownML</code>
-<code>npm i -s facebook-chat-api</code>
-<code>python train.py</code>
+<code>git clone http://github.com/andykamath/TrickleDownML</code><br>
+<code>cd TrickleDownML</code><br>
+<code>npm i -s facebook-chat-api</code><br>
+<code>python train.py</code><br>
 
 ###About 3-4 hours later once it's done training, edit index.js to add your email and password to Facebook:
 <code>node index.js</code>
