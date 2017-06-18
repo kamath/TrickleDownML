@@ -1,27 +1,27 @@
-#Reagan 2016 Let's Make America Great Again!
+# Reagan 2016 Let's Make America Great Again!
 
 ![alt text](http://www.oldpoliticals.com/ItemImages/000014/18692_lg.jpeg "Ronald Reagan 2016")
 
-I made a chatbot that mimics Ronald Reagan since the current GOP nominee is trash.
+I made a chatbot that mimics Ronald Reagan
 
-###Dependencies:
+### Dependencies:
 * Tensorflow (Python)
 * NPM
 * NumPy (pip)
 * Git
 
-##To Run:
-###Run the following on your command line:
+## To Run:
+### Run the following on your command line:
 <code>git clone http://github.com/andykamath/TrickleDownML</code><br>
 <code>cd TrickleDownML</code><br>
 <code>npm i -s facebook-chat-api</code><br>
 <code>python train.py</code><br>
 
-###About 3-4 hours later once it's done training, edit index.js to add your email and password to Facebook:
+### About 3-4 hours later once it's done training, edit index.js to add your email and password to Facebook:
 <code>node index.js</code>
 
-##Results:
+## Results:
 ![Alt text](/test1.png "")
 ![Alt text](/test2.png "")
 
-###A lot of the ML code came from [hunkim's word-rnn-tensorflow repo](https://github.com/hunkim/word-rnn-tensorflow)
+### A lot of the ML code came from [hunkim's word-rnn-tensorflow repo](https://github.com/hunkim/word-rnn-tensorflow)
